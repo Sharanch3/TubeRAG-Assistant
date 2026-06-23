@@ -3,9 +3,13 @@ langchain-core
 langchain-community
 langchain-groq
 langchain-openai
-langchain-chroma
 langgraph
 langgraph-checkpoint-sqlite
+
+
+protobuf==3.20.3
+chromadb
+langchain-chroma
 
 
 streamlit
