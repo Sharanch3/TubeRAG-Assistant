@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+langchain-chroma
+langgraph
+langgraph-checkpoint-sqlite
+
+
+streamlit
+
+python-dotenv
+
+youtube_transcript_api
